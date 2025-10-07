@@ -1,3 +1,6 @@
+#2243465 - Juan Esteban Gomez Ayala
+#2242038 - Juan David Ochoa
+
 # Clase Nodo
 class Nodo:
     def __init__(self, dato):
